@@ -1,0 +1,6 @@
+framework module Pods_communityApplication {
+  umbrella header "Pods-communityApplication-umbrella.h"
+
+  export *
+  module * { export * }
+}
